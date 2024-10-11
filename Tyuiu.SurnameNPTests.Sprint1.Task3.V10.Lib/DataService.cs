@@ -1,9 +1,9 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint1;
+﻿//correct answer
+using tyuiu.cources.programming.interfaces.Sprint1;
 
-// Correct answer
 namespace Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Lib
 {
-	internal class DataService : ISprint1Task3V10
+	public class DataService : ISprint1Task3V10
 	{
 		public string NumberToMoney(double number)
 		{

@@ -1,6 +1,4 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint1;
-
-// Interface error
+﻿// interface error
 namespace Tyuiu.SurnameNPTests.Sprint1.Task1.V10.Lib
 {
 	public class DataService
