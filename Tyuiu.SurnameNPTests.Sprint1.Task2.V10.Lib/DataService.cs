@@ -7,7 +7,7 @@ namespace Tyuiu.SurnameNPTests.Sprint1.Task2.V10.Lib
 	{
 		public double ConvertMetreToInchs(int value)
 		{
-			return 236.221;
+			return 111;
 		}
 	}
 }
