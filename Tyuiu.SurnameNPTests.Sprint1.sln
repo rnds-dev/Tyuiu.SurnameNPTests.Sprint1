@@ -11,21 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Lib", "Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Lib\Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Lib.csproj", "{5B87F7A1-7132-4178-9715-09AE7E888A85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task0.V10", "Tyuiu.SurnameNPTests.Sprint1.Task0.V10\Tyuiu.SurnameNPTests.Sprint1.Task0.V10.csproj", "{D93957B6-E657-4069-A417-C73D0AD725C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task0.V10", "Tyuiu.SurnameNPTests.Sprint1.Task0.V10\Tyuiu.SurnameNPTests.Sprint1.Task0.V10.csproj", "{D93957B6-E657-4069-A417-C73D0AD725C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task1.V10", "Tyuiu.SurnameNPTests.Sprint1.Task1.V10\Tyuiu.SurnameNPTests.Sprint1.Task1.V10.csproj", "{1D06AC0A-EEB6-4411-9EF5-BA940F4321DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task1.V10", "Tyuiu.SurnameNPTests.Sprint1.Task1.V10\Tyuiu.SurnameNPTests.Sprint1.Task1.V10.csproj", "{1D06AC0A-EEB6-4411-9EF5-BA940F4321DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task2.V10", "Tyuiu.SurnameNPTests.Sprint1.Task2.V10\Tyuiu.SurnameNPTests.Sprint1.Task2.V10.csproj", "{7126FF88-F190-49BB-A287-C441BC996821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task2.V10", "Tyuiu.SurnameNPTests.Sprint1.Task2.V10\Tyuiu.SurnameNPTests.Sprint1.Task2.V10.csproj", "{7126FF88-F190-49BB-A287-C441BC996821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task3.V10", "Tyuiu.SurnameNPTests.Sprint1.Task3.V10\Tyuiu.SurnameNPTests.Sprint1.Task3.V10.csproj", "{7B25999E-5054-419F-B033-8B099E4CE30D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task3.V10", "Tyuiu.SurnameNPTests.Sprint1.Task3.V10\Tyuiu.SurnameNPTests.Sprint1.Task3.V10.csproj", "{7B25999E-5054-419F-B033-8B099E4CE30D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task0.V10.Tests", "Tyuiu.SurnameNPTests.Sprint1.Task0.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task0.V10.Tests.csproj", "{D6E5C38C-E68F-41FE-858C-A2A410946609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task0.V10.Test", "Tyuiu.SurnameNPTests.Sprint1.Task0.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task0.V10.Test.csproj", "{D6E5C38C-E68F-41FE-858C-A2A410946609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task1.V10.Tests", "Tyuiu.SurnameNPTests.Sprint1.Task1.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task1.V10.Tests.csproj", "{D0043A1A-1EB4-4530-A040-9CABC57161BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task1.V10.Test", "Tyuiu.SurnameNPTests.Sprint1.Task1.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task1.V10.Test.csproj", "{D0043A1A-1EB4-4530-A040-9CABC57161BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task2.V10.Tests", "Tyuiu.SurnameNPTests.Sprint1.Task2.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task2.V10.Tests.csproj", "{79579209-B302-4CE6-B154-44B886808657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task2.V10.Test", "Tyuiu.SurnameNPTests.Sprint1.Task2.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task2.V10.Test.csproj", "{79579209-B302-4CE6-B154-44B886808657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Tests", "Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Tests.csproj", "{82AD03A5-92A3-419A-AE4A-08D0F869BDE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Test", "Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Tests\Tyuiu.SurnameNPTests.Sprint1.Task3.V10.Test.csproj", "{82AD03A5-92A3-419A-AE4A-08D0F869BDE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{D3B66FBC-DCC1-45C3-9625-7210D738CE5C}"
 EndProject
